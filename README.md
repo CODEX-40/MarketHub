@@ -101,5 +101,3 @@ Optional: delete the old branch on GitHub when you’re done; locally you can re
 ## If you’re stuck
 
 Git’s errors are blunt but usually truthful. Read the message, search the exact wording if needed, or ask in the team chat with a screenshot — everyone’s been there.
-
-**One drum, many beats.** Same project, lots of hands; Git is how we stay in step.
