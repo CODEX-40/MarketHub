@@ -2,6 +2,37 @@
 
 Social-commerce style front end: marketplace, product detail, cart & checkout, video ad feed, messaging UI, seller dashboard, and admin screens. Data is **mock-only** (no API).
 
+> **First time on this project?** Read [`CONTRIBUTING.md`](./CONTRIBUTING.md) before doing anything. It covers cloning, branching, and pushing on **Windows**, **macOS**, and **Linux**.
+
+## Quick start
+
+You need **Git** and **Node.js 18+** installed.
+
+### 1. Clone the repo (don’t work in the RAR-extracted folder)
+
+**Windows (Command Prompt or Git Bash):**
+```
+cd %USERPROFILE%\Desktop
+git clone https://github.com/CODEX-40/MarketHub.git
+cd MarketHub
+```
+
+**macOS / Linux:**
+```bash
+cd ~
+git clone https://github.com/CODEX-40/MarketHub.git
+cd MarketHub
+```
+
+### 2. Install dependencies and run
+
+```bash
+npm install
+npm run dev
+```
+
+Open the URL Vite prints (usually <http://127.0.0.1:5173>).
+
 ## Scripts
 
 - `npm run dev` — Vite dev server
